@@ -1,0 +1,3 @@
+[submodule "go-livepeer"]
+	path = go-livepeer
+	url = git@github.com:livepeer/go-livepeer.git
